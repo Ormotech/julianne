@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/julianne/static/css/main.f259de27.css",
-    "main.js": "/julianne/static/js/main.8bc8684d.js",
-    "static/media/shopping-bag (5).svg": "/julianne/static/media/shopping-bag (5).a688874f6f1507316bdfa420328a4a53.svg",
-    "static/media/crown (7).svg": "/julianne/static/media/crown (7).3a4e2b15908e7a4c25343677d232b7e6.svg",
-    "index.html": "/julianne/index.html",
-    "main.f259de27.css.map": "/julianne/static/css/main.f259de27.css.map",
-    "main.8bc8684d.js.map": "/julianne/static/js/main.8bc8684d.js.map"
+    "main.css": "/help/static/css/main.f259de27.css",
+    "main.js": "/help/static/js/main.0c350ee5.js",
+    "static/media/shopping-bag (5).svg": "/help/static/media/shopping-bag (5).a688874f6f1507316bdfa420328a4a53.svg",
+    "static/media/crown (7).svg": "/help/static/media/crown (7).3a4e2b15908e7a4c25343677d232b7e6.svg",
+    "index.html": "/help/index.html",
+    "main.f259de27.css.map": "/help/static/css/main.f259de27.css.map",
+    "main.0c350ee5.js.map": "/help/static/js/main.0c350ee5.js.map"
   },
   "entrypoints": [
     "static/css/main.f259de27.css",
-    "static/js/main.8bc8684d.js"
+    "static/js/main.0c350ee5.js"
   ]
 }
